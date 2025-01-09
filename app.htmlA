@@ -30,6 +30,7 @@
          </fieldest>
          <input type="submit" value="送信">
        </form>
+       
        <h7>この天文台は実在しません</h7> 
    </body>
  </html>
