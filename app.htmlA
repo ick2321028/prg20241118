@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html lang="ja"></html>
+   <head>
+      <meta charset="UTF-8">
+      <title>市川天文台</title>
+
+      <link href="style.css" rel="stylesheet"/>
+   </head>
+   <body>
+       <h1>市川天文台</h1>
+       
+       <form>
+         <fieldest>
+            <legend>イベント申し込みフォーム</legend>
+            <div>
+                 <input type="radio"id=contactChoice1" />
+                 <labet for="contactChoice1">星空観察会</label>
+
+                 <input type="radio"id=contactChoice2" />
+                 <labet for="contactChoice1">館長の話を聞く会</label>
+
+            </div>
+         </fieldest>
+       </form>
+       <h7>この天文台は実在しません</h7> 
+   </body>
+ </html>
